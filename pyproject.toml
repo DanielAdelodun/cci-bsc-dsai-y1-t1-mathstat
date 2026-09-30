@@ -1,0 +1,7 @@
+[project]
+name = "cci-bsc-dsai-y1-t1-mathstat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
